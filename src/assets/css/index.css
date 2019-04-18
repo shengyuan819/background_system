@@ -1,0 +1,34 @@
+*{
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+}
+body,html{
+	padding: 0;
+	margin: 0;
+	width:100vh;
+	height:100%;
+}
+/*h1{
+	font-size:60px;
+}*/
+.blue-top{
+	height:80px;
+	/*background-color:rgb(64,158,255);*/
+	/*background:skyblue;*/
+	background:#00aeae;
+}
+.size-top{
+	color:white;
+	font-size:30px;
+	line-height:80px;
+	padding-left:20px;
+}
+.menu-item{
+	display:flex;
+	justify-content:center;
+}
+.el-menu{
+	
+	height:850px;
+}
